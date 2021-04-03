@@ -1,2 +1,2 @@
-# basiccrudapi
-API Rest Simples
+# crudapi
+API Rest
